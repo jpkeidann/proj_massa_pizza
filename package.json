@@ -1,0 +1,12 @@
+{
+  "name": "proj_pizza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Pedro Keidann , Pedro Theis , Eliel Bernardi",
+  "license": "MIT",
+  "description": ""
+}
