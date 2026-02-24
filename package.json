@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "João Pedro Keidann , Pedro Theis , Eliel Bernardi",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
